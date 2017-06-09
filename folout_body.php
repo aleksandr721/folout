@@ -1,4 +1,6 @@
 <?php
+//yryryryryryryryryryryryyryryryryr
+// trtrtrtrtrtrtrttrtrtrtrtrrtrt
 
 // BODY PROGRAM BATTL
 //require_once('foloutfuncs.php');
